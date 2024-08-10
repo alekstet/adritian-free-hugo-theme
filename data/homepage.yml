@@ -1,14 +1,14 @@
 # page title
 head:
   title: "Aleksandr Teterkin"
-  description: "This hugo theme (Adritian) is based on Boostrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
+  description: "My portfolio."
 # showcase
 showcase:
   enable: true
   title: "Hello, I’m Aleksandr Teterkin."
-  subtitle: "This is my portfolio"
+  subtitle: "Go devepoler & Teamlead"
   description: >
-    This is a good place to start with an introduction about yourself. Maybe a mention to the place <a target='_blank' href='https://www.adrianmoreno.info/'>where you work</a>. You can also mention where you live, your background and what's the purpose of the site. <br>You can download this theme from <a target='_blank' href='https://github.com/zetxek/adritian-free-hugo-theme'>github</a>, and see it live <a target='_blank' href="https://adritian-demo.vercel.app//">as a demo site</a> or <a target='_blank' href="https://www.adrianmoreno.info">a real one</a>.<br>You can find this content to edit in the theme.yaml file.
+    Based in Moscow. I work at <a target='_blank' href='https://www.sberbank.ru'>Sber</a>, a fintech company focused in small businesses, whose vision is to create a world where anyone can build a thriving business.
   image:
     x: "images/showcase/showcase.png"
     _2x: "images/showcase/showcase@2x.png"
@@ -36,15 +36,10 @@ about:
   title: "Who am I?"
   content: >
     <p class="lead">
-      Here you can add some information about you. A small excerpt that describes 
-      your experience, for example.   
+      I am an engineer by formation, curious and energetic - that applies technology to solve real-world problems. Personally, I’m a very easy going, sociable, fast-learner, curious and natural leader. I do what I love, and I love what I do. I lead by example and work side by side with my teams.   
       </p>
       <p class="lead">
-      You explain something about your academic/study background, as well as your
-      preferred areas of work. Think of this area as context-setting for the experience
-      that you will describe below. Why did you change jobs? What drove you to take a 
-      new gig? Even if you are not looking for a job, it's a good way to hint about
-      what kind of projects you are interested in.
+      I am a deliberate jack of all trades, master of none. My profile is a hybrid of technical and managerial experience, but always related to technological projects. I bring business and product vision to tech teams, partly thanks to having started an developed a company. I am a fast learner, curious to see how technology can improve the users experience in multiple areas. I have a strong motivation and sense of responsibility with myself, my team and clients (or peers), and people like my positive and easy going, can-do attitude.
     </p>
   button:
     icon: "icon-smile-fill"
@@ -61,11 +56,11 @@ education:
   items:
     - university: "Perm Research National Polytechnical University"
       year: "2014-2018"
-      degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
+      degree: "Bachelor of Automated control systems, Electrical Engineering"
 
     - university: "Perm Research National Polytechnical University"
       year: "2018-2020"
-      degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+      degree: "Master of Automated control systems, Computer & Business Studies"
 
 # experience
 experience:
